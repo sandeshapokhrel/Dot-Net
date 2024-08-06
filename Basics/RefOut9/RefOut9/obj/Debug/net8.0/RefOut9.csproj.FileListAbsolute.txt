@@ -1,0 +1,14 @@
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\obj\Debug\net8.0\RefOut9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\obj\Debug\net8.0\RefOut9.AssemblyInfoInputs.cache
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\obj\Debug\net8.0\RefOut9.AssemblyInfo.cs
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\obj\Debug\net8.0\RefOut9.csproj.CoreCompileInputs.cache
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\bin\Debug\net8.0\RefOut9.exe
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\bin\Debug\net8.0\RefOut9.deps.json
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\bin\Debug\net8.0\RefOut9.runtimeconfig.json
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\bin\Debug\net8.0\RefOut9.dll
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\bin\Debug\net8.0\RefOut9.pdb
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\obj\Debug\net8.0\RefOut9.dll
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\obj\Debug\net8.0\refint\RefOut9.dll
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\obj\Debug\net8.0\RefOut9.pdb
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\obj\Debug\net8.0\RefOut9.genruntimeconfig.cache
+C:\Users\sandeshapc\Desktop\DotNet\Basics\RefOut9\RefOut9\obj\Debug\net8.0\ref\RefOut9.dll

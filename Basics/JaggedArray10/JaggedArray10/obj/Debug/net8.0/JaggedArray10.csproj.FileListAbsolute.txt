@@ -1,0 +1,14 @@
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\obj\Debug\net8.0\JaggedArray10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\obj\Debug\net8.0\JaggedArray10.AssemblyInfoInputs.cache
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\obj\Debug\net8.0\JaggedArray10.AssemblyInfo.cs
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\obj\Debug\net8.0\JaggedArray10.csproj.CoreCompileInputs.cache
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\bin\Debug\net8.0\JaggedArray10.exe
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\bin\Debug\net8.0\JaggedArray10.deps.json
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\bin\Debug\net8.0\JaggedArray10.runtimeconfig.json
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\bin\Debug\net8.0\JaggedArray10.dll
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\bin\Debug\net8.0\JaggedArray10.pdb
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\obj\Debug\net8.0\JaggedArray10.dll
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\obj\Debug\net8.0\refint\JaggedArray10.dll
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\obj\Debug\net8.0\JaggedArray10.pdb
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\obj\Debug\net8.0\JaggedArray10.genruntimeconfig.cache
+C:\Users\sandeshapc\Desktop\DotNet\Basics\JaggedArray10\JaggedArray10\obj\Debug\net8.0\ref\JaggedArray10.dll

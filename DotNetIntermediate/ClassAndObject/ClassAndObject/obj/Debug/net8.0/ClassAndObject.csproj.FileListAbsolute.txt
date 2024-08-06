@@ -1,0 +1,14 @@
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.AssemblyInfoInputs.cache
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.AssemblyInfo.cs
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.exe
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.deps.json
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.runtimeconfig.json
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.dll
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.pdb
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.dll
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\obj\Debug\net8.0\refint\ClassAndObject.dll
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.pdb
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.genruntimeconfig.cache
+C:\Users\sandeshapc\Desktop\DotNet\OOPS\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ref\ClassAndObject.dll

@@ -1,0 +1,14 @@
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\bin\Debug\net8.0\NullOperator.exe
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\bin\Debug\net8.0\NullOperator.deps.json
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\bin\Debug\net8.0\NullOperator.runtimeconfig.json
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\bin\Debug\net8.0\NullOperator.dll
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\bin\Debug\net8.0\NullOperator.pdb
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\obj\Debug\net8.0\NullOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\obj\Debug\net8.0\NullOperator.AssemblyInfoInputs.cache
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\obj\Debug\net8.0\NullOperator.AssemblyInfo.cs
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\obj\Debug\net8.0\NullOperator.csproj.CoreCompileInputs.cache
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\obj\Debug\net8.0\NullOperator.dll
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\obj\Debug\net8.0\refint\NullOperator.dll
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\obj\Debug\net8.0\NullOperator.pdb
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\obj\Debug\net8.0\NullOperator.genruntimeconfig.cache
+C:\Users\sandeshapc\Desktop\DotNet\Basics\NullOperator\NullOperator\obj\Debug\net8.0\ref\NullOperator.dll
