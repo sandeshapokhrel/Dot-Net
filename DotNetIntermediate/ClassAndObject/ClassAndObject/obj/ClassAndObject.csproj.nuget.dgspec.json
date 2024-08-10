@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sandeshapc\\Desktop\\DotNet\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\ClassAndObject.csproj": {}
+    "E:\\Dot-Net\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\ClassAndObject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sandeshapc\\Desktop\\DotNet\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\ClassAndObject.csproj": {
+    "E:\\Dot-Net\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\ClassAndObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sandeshapc\\Desktop\\DotNet\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\ClassAndObject.csproj",
+        "projectUniqueName": "E:\\Dot-Net\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\ClassAndObject.csproj",
         "projectName": "ClassAndObject",
-        "projectPath": "C:\\Users\\sandeshapc\\Desktop\\DotNet\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\ClassAndObject.csproj",
+        "projectPath": "E:\\Dot-Net\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\ClassAndObject.csproj",
         "packagesPath": "C:\\Users\\sandeshapc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sandeshapc\\Desktop\\DotNet\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\obj\\",
+        "outputPath": "E:\\Dot-Net\\DotNetIntermediate\\ClassAndObject\\ClassAndObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

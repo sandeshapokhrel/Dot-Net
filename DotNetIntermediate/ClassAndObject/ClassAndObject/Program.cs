@@ -23,6 +23,12 @@ class Student
     {
         return age;
     }
+    // Deconstructor to deconstruct the object into multiple variables
+    public void Deconstruct(out string studentName, out string studentAge)
+    {
+        studentName = name;
+        studentAge = age;
+    }
 
     static void Main(string[] args)
     {
