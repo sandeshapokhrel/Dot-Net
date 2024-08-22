@@ -1,0 +1,15 @@
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\one.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\one.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\one.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\one.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\one.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\one.exe
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\one.deps.json
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\one.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\one.dll
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\one.pdb
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\one.dll
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\refint\one.dll
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\one.pdb
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\one.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\ref\one.dll

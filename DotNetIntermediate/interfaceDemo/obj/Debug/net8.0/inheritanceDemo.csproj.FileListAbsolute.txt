@@ -1,0 +1,30 @@
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\inheritanceDemo.exe
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\inheritanceDemo.deps.json
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\inheritanceDemo.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\inheritanceDemo.dll
+E:\Dot-Net\DotNetIntermediate\one\one\bin\Debug\net8.0\inheritanceDemo.pdb
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\inheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\inheritanceDemo.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\inheritanceDemo.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\inheritanceDemo.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\inheritanceDemo.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\inheritanceDemo.dll
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\refint\inheritanceDemo.dll
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\inheritanceDemo.pdb
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\inheritanceDemo.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\one\one\obj\Debug\net8.0\ref\inheritanceDemo.dll
+E:\Dot-Net\DotNetIntermediate\one (2)\bin\Debug\net8.0\inheritanceDemo.exe
+E:\Dot-Net\DotNetIntermediate\one (2)\bin\Debug\net8.0\inheritanceDemo.deps.json
+E:\Dot-Net\DotNetIntermediate\one (2)\bin\Debug\net8.0\inheritanceDemo.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\one (2)\bin\Debug\net8.0\inheritanceDemo.dll
+E:\Dot-Net\DotNetIntermediate\one (2)\bin\Debug\net8.0\inheritanceDemo.pdb
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\inheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\inheritanceDemo.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\inheritanceDemo.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\inheritanceDemo.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\inheritanceDemo.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\inheritanceDemo.dll
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\refint\inheritanceDemo.dll
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\inheritanceDemo.pdb
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\inheritanceDemo.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\one (2)\obj\Debug\net8.0\ref\inheritanceDemo.dll
