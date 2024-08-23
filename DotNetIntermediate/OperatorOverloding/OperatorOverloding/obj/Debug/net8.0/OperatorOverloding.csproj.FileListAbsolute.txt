@@ -1,0 +1,15 @@
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\bin\Debug\net8.0\OperatorOverloding.exe
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\bin\Debug\net8.0\OperatorOverloding.deps.json
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\bin\Debug\net8.0\OperatorOverloding.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\bin\Debug\net8.0\OperatorOverloding.dll
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\bin\Debug\net8.0\OperatorOverloding.pdb
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\OperatorOverloding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\OperatorOverloding.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\OperatorOverloding.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\OperatorOverloding.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\OperatorOverloding.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\OperatorOverloding.dll
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\refint\OperatorOverloding.dll
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\OperatorOverloding.pdb
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\OperatorOverloding.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\OperatorOverloding\OperatorOverloding\obj\Debug\net8.0\ref\OperatorOverloding.dll

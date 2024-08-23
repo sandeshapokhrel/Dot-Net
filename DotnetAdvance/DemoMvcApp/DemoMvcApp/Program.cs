@@ -1,4 +1,5 @@
 using DemoMvcApp.Repositories;
+using DemoMvcApp.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
@@ -12,6 +13,8 @@ builder.Services.AddSwaggerGen(); // Add Swagger
 
 // Register the repository with the dependency injection container
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddTransient<IProductService, ProductService>();
+
 
 var app = builder.Build();
 
@@ -22,6 +25,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "DemoMvcApp v1"));
 }
+
 
 app.UseHttpsRedirection();
 

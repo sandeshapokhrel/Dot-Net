@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\demomvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|solutionrelative:demomvcapp\\demomvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|solutionrelative:demomvcapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|solutionrelative:demomvcapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|solutionrelative:demomvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|solutionrelative:demomvcapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|solutionrelative:demomvcapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|solutionrelative:demomvcapp\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|solutionrelative:demomvcapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|e:\\dot-net\\dotnetadvance\\demomvcapp\\demomvcapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C652DB9F-ACED-46A1-B1D1-CC883089BDF2}|DemoMvcApp\\DemoMvcApp.csproj|solutionrelative:demomvcapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Program.cs",
               "RelativeDocumentMoniker": "DemoMvcApp\\Program.cs",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Program.cs",
               "RelativeToolTip": "DemoMvcApp\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAcwBUAAAAVAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:11:21.199Z",
+              "WhenOpened": "2024-08-22T13:37:43.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DemoMvcApp\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "DemoMvcApp\\Services\\ProductService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:18:12.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "DemoMvcApp\\Services\\IProductService.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Services\\IProductService.cs",
+              "RelativeToolTip": "DemoMvcApp\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:16:45.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DemoMvcApp\\Repositories\\ProductRepository.cs",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "DemoMvcApp\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBYAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvyMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:10:10.513Z",
+              "WhenOpened": "2024-08-22T13:43:48.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IproductRepository.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Repositories\\IproductRepository.cs",
               "RelativeDocumentMoniker": "DemoMvcApp\\Repositories\\IproductRepository.cs",
@@ -72,12 +102,12 @@
               "RelativeToolTip": "DemoMvcApp\\Repositories\\IproductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:09:34.343Z",
+              "WhenOpened": "2024-08-22T13:44:55.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Models\\Product.cs",
               "RelativeDocumentMoniker": "DemoMvcApp\\Models\\Product.cs",
@@ -90,28 +120,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DemoMvcApp",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\DemoMvcApp.csproj",
-              "RelativeDocumentMoniker": "DemoMvcApp\\DemoMvcApp.csproj",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\DemoMvcApp.csproj",
-              "RelativeToolTip": "DemoMvcApp\\DemoMvcApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-21T13:05:42.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "DemoMvcApp\\Controllers\\ProductsController.cs",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\DemoMvcApp\\DemoMvcApp\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "DemoMvcApp\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBwAAAANAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:02:53.748Z",
+              "WhenOpened": "2024-08-22T13:46:19.577Z",
               "EditorCaption": ""
             }
           ]
