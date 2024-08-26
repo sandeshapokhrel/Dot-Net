@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\inheritance\\inheritance\\inheritance.csproj",
+      "projectUniqueName": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\inheritance\\inheritance\\inheritance.csproj",
       "projectName": "inheritance",
-      "projectPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\inheritance\\inheritance\\inheritance.csproj",
+      "projectPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\inheritance\\inheritance\\inheritance.csproj",
       "packagesPath": "C:\\Users\\sandeshapc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\inheritance\\inheritance\\obj\\",
+      "outputPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\inheritance\\inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

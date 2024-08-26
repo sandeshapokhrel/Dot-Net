@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sandeshapc\\Desktop\\OOPS\\class&object\\class&object\\class&object.csproj": {}
+    "E:\\Dot-Net\\DotnetAdvance\\OOPS\\class&object\\class&object\\class&object.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sandeshapc\\Desktop\\OOPS\\class&object\\class&object\\class&object.csproj": {
+    "E:\\Dot-Net\\DotnetAdvance\\OOPS\\class&object\\class&object\\class&object.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\class&object\\class&object\\class&object.csproj",
+        "projectUniqueName": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\class&object\\class&object\\class&object.csproj",
         "projectName": "class&object",
-        "projectPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\class&object\\class&object\\class&object.csproj",
+        "projectPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\class&object\\class&object\\class&object.csproj",
         "packagesPath": "C:\\Users\\sandeshapc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\class&object\\class&object\\obj\\",
+        "outputPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\class&object\\class&object\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

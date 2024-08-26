@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sandeshapc\\Desktop\\OOPS\\encapsulation\\encapsulation\\encapsulation.csproj": {}
+    "E:\\Dot-Net\\DotnetAdvance\\OOPS\\encapsulation\\encapsulation\\encapsulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sandeshapc\\Desktop\\OOPS\\encapsulation\\encapsulation\\encapsulation.csproj": {
+    "E:\\Dot-Net\\DotnetAdvance\\OOPS\\encapsulation\\encapsulation\\encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\encapsulation\\encapsulation\\encapsulation.csproj",
+        "projectUniqueName": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\encapsulation\\encapsulation\\encapsulation.csproj",
         "projectName": "encapsulation",
-        "projectPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\encapsulation\\encapsulation\\encapsulation.csproj",
+        "projectPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\encapsulation\\encapsulation\\encapsulation.csproj",
         "packagesPath": "C:\\Users\\sandeshapc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\encapsulation\\encapsulation\\obj\\",
+        "outputPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\encapsulation\\encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,3 +12,11 @@ C:\Users\sandeshapc\Desktop\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\refint
 C:\Users\sandeshapc\Desktop\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.pdb
 C:\Users\sandeshapc\Desktop\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
 C:\Users\sandeshapc\Desktop\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll
+E:\Dot-Net\DotnetAdvance\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotnetAdvance\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+E:\Dot-Net\DotnetAdvance\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+E:\Dot-Net\DotnetAdvance\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotnetAdvance\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.sourcelink.json
+E:\Dot-Net\DotnetAdvance\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.dll
+E:\Dot-Net\DotnetAdvance\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+E:\Dot-Net\DotnetAdvance\OOPS\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.pdb

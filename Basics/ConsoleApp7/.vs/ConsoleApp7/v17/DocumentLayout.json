@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sandeshapc\\Desktop\\DotNet\\Basics\\ConsoleApp7\\",
+  "WorkspaceRootPath": "E:\\Dot-Net\\Basics\\ConsoleApp7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{614431BF-46B9-4430-A3B7-42625BCE1398}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\sandeshapc\\desktop\\dotnet\\basics\\consoleapp7\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{614431BF-46B9-4430-A3B7-42625BCE1398}|ConsoleApp7\\ConsoleApp7.csproj|e:\\dot-net\\basics\\consoleapp7\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{614431BF-46B9-4430-A3B7-42625BCE1398}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sandeshapc\\Desktop\\DotNet\\Basics\\ConsoleApp7\\ConsoleApp7\\Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\Basics\\ConsoleApp7\\ConsoleApp7\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp7\\Program.cs",
-              "ToolTip": "C:\\Users\\sandeshapc\\Desktop\\DotNet\\Basics\\ConsoleApp7\\ConsoleApp7\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\Basics\\ConsoleApp7\\ConsoleApp7\\Program.cs",
               "RelativeToolTip": "ConsoleApp7\\Program.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAmwEkAAAAgAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T02:51:32.07Z",
               "EditorCaption": ""

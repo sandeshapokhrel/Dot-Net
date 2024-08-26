@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\class\u0026object\\",
+  "WorkspaceRootPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\class\u0026object\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEC85EAA-F958-4CDE-9752-CB857693A307}|class\u0026object\\class\u0026object.csproj|c:\\users\\sandeshapc\\desktop\\oops\\class\u0026object\\class\u0026object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEC85EAA-F958-4CDE-9752-CB857693A307}|class\u0026object\\class\u0026object.csproj|e:\\dot-net\\dotnetadvance\\oops\\class\u0026object\\class\u0026object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEC85EAA-F958-4CDE-9752-CB857693A307}|class\u0026object\\class\u0026object.csproj|solutionrelative:class\u0026object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\class\u0026object\\class\u0026object\\Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\class\u0026object\\class\u0026object\\Program.cs",
               "RelativeDocumentMoniker": "class\u0026object\\Program.cs",
-              "ToolTip": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\class\u0026object\\class\u0026object\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\class\u0026object\\class\u0026object\\Program.cs",
               "RelativeToolTip": "class\u0026object\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAKAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T10:33:47.059Z",
               "EditorCaption": ""

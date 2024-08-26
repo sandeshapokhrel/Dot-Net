@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sandeshapc\\Desktop\\OOPS\\Polymorphism\\overloding\\overloding\\overloding.csproj": {}
+    "E:\\Dot-Net\\DotnetAdvance\\OOPS\\Polymorphism\\overloding\\overloding\\overloding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sandeshapc\\Desktop\\OOPS\\Polymorphism\\overloding\\overloding\\overloding.csproj": {
+    "E:\\Dot-Net\\DotnetAdvance\\OOPS\\Polymorphism\\overloding\\overloding\\overloding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\Polymorphism\\overloding\\overloding\\overloding.csproj",
+        "projectUniqueName": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\Polymorphism\\overloding\\overloding\\overloding.csproj",
         "projectName": "overloding",
-        "projectPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\Polymorphism\\overloding\\overloding\\overloding.csproj",
+        "projectPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\Polymorphism\\overloding\\overloding\\overloding.csproj",
         "packagesPath": "C:\\Users\\sandeshapc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\Polymorphism\\overloding\\overloding\\obj\\",
+        "outputPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\Polymorphism\\overloding\\overloding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

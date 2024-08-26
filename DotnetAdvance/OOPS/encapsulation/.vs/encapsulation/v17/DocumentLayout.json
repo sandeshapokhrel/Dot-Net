@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\encapsulation\\",
+  "WorkspaceRootPath": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4AC86E5-A360-4B10-B1A8-F5E9A7E61CDC}|encapsulation\\encapsulation.csproj|c:\\users\\sandeshapc\\desktop\\oops\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4AC86E5-A360-4B10-B1A8-F5E9A7E61CDC}|encapsulation\\encapsulation.csproj|e:\\dot-net\\dotnetadvance\\oops\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4AC86E5-A360-4B10-B1A8-F5E9A7E61CDC}|encapsulation\\encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\encapsulation\\encapsulation\\Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\encapsulation\\encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "encapsulation\\Program.cs",
-              "ToolTip": "C:\\Users\\sandeshapc\\Desktop\\OOPS\\encapsulation\\encapsulation\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\OOPS\\encapsulation\\encapsulation\\Program.cs",
               "RelativeToolTip": "encapsulation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T10:50:13.78Z",
               "EditorCaption": ""

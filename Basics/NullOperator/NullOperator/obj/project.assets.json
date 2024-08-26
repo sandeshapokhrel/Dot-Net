@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sandeshapc\\Desktop\\DotNet\\Basics\\NullOperator\\NullOperator\\NullOperator.csproj",
+      "projectUniqueName": "E:\\Dot-Net\\Basics\\NullOperator\\NullOperator\\NullOperator.csproj",
       "projectName": "NullOperator",
-      "projectPath": "C:\\Users\\sandeshapc\\Desktop\\DotNet\\Basics\\NullOperator\\NullOperator\\NullOperator.csproj",
+      "projectPath": "E:\\Dot-Net\\Basics\\NullOperator\\NullOperator\\NullOperator.csproj",
       "packagesPath": "C:\\Users\\sandeshapc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sandeshapc\\Desktop\\DotNet\\Basics\\NullOperator\\NullOperator\\obj\\",
+      "outputPath": "E:\\Dot-Net\\Basics\\NullOperator\\NullOperator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
