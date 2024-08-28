@@ -1,0 +1,15 @@
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\bin\Debug\net8.0\Boxing.exe
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\bin\Debug\net8.0\Boxing.deps.json
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\bin\Debug\net8.0\Boxing.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\bin\Debug\net8.0\Boxing.dll
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\bin\Debug\net8.0\Boxing.pdb
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\Boxing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\Boxing.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\Boxing.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\Boxing.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\Boxing.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\Boxing.dll
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\refint\Boxing.dll
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\Boxing.pdb
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\Boxing.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\Boxing\Boxing\obj\Debug\net8.0\ref\Boxing.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{567AF23E-2342-4BFD-8D84-011BE2921AF6}|OwnType\\OwnType.csproj|e:\\dot-net\\dotnetintermediate\\owntype\\owntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AF23E-2342-4BFD-8D84-011BE2921AF6}|OwnType\\OwnType.csproj|solutionrelative:owntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567AF23E-2342-4BFD-8D84-011BE2921AF6}|OwnType\\OwnType.csproj|e:\\dot-net\\dotnetintermediate\\owntype\\owntype\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567AF23E-2342-4BFD-8D84-011BE2921AF6}|OwnType\\OwnType.csproj|solutionrelative:owntype\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "point.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\OwnType\\point.cs",
+              "RelativeDocumentMoniker": "OwnType\\point.cs",
+              "ToolTip": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\OwnType\\point.cs",
+              "RelativeToolTip": "OwnType\\point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:34:56.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\OwnType\\Program.cs",
+              "RelativeDocumentMoniker": "OwnType\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\OwnType\\Program.cs",
+              "RelativeToolTip": "OwnType\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:31:41.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

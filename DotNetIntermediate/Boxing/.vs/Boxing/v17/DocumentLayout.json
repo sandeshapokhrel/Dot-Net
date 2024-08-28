@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot-Net\\DotNetIntermediate\\Boxing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAA68FD-6A4A-4A30-9917-2C267B62EA59}|Boxing\\Boxing.csproj|e:\\dot-net\\dotnetintermediate\\boxing\\boxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAA68FD-6A4A-4A30-9917-2C267B62EA59}|Boxing\\Boxing.csproj|solutionrelative:boxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotNetIntermediate\\Boxing\\Boxing\\Program.cs",
+              "RelativeDocumentMoniker": "Boxing\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\DotNetIntermediate\\Boxing\\Boxing\\Program.cs",
+              "RelativeToolTip": "Boxing\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:12:27.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
