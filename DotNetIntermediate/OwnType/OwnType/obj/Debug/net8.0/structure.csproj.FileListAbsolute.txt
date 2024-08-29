@@ -1,0 +1,15 @@
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\bin\Debug\net8.0\structure.exe
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\bin\Debug\net8.0\structure.deps.json
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\bin\Debug\net8.0\structure.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\bin\Debug\net8.0\structure.dll
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\bin\Debug\net8.0\structure.pdb
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\structure.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\structure.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\structure.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\structure.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\structure.dll
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\refint\structure.dll
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\structure.pdb
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\structure.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\OwnType\OwnType\obj\Debug\net8.0\ref\structure.dll

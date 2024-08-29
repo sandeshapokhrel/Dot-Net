@@ -1,23 +1,27 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace OwnType
+namespace Structure
 {
-    int x;
-    int y;
-    struct MyPoint(int a, int b)
-
+    public class MyPoint
     {
-        x=a;
-        y=b;
+        public int X { get; set; }
+        public int Y { get; set; }
 
-    }
-    public int x
-    {
-        get {
+        public MyPoint(int x, int y)
+        {
+            X = x;
+            Y = y;
+        }
+
+        public double DistanceTo(MyPoint p)
+        {
+            return Math.Sqrt((p.X - X) * (p.X - X) + (p.Y - Y) * (p.Y - Y));
+        }
+
+        public override string ToString()
+        {
+            return $"[{X}, {Y}]";
+        }
     }
 }
+    

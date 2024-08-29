@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\OwnType\\OwnType.csproj",
-      "projectName": "OwnType",
-      "projectPath": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\OwnType\\OwnType.csproj",
+      "projectUniqueName": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\OwnType\\structure.csproj",
+      "projectName": "structure",
+      "projectPath": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\OwnType\\structure.csproj",
       "packagesPath": "C:\\Users\\sandeshapc\\.nuget\\packages\\",
       "outputPath": "E:\\Dot-Net\\DotNetIntermediate\\OwnType\\OwnType\\obj\\",
       "projectStyle": "PackageReference",
