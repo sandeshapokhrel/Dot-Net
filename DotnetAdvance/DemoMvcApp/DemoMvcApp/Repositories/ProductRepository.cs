@@ -1,4 +1,5 @@
 ﻿using DemoMvcApp.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -6,30 +7,57 @@ namespace DemoMvcApp.Repositories
 {
     public class ProductRepository : IProductRepository
     {
-        private readonly List<Product> _products;
+        private readonly ApplicationDbContext _context;
 
-        public ProductRepository()
+        public ProductRepository(ApplicationDbContext context)
         {
-            _products = new List<Product>
+            _context = context;
+        }
+
+        // Get all products
+        public IEnumerable<Product> GetProducts()
+        {
+            return _context.Products.ToList();
+
+        }
+
+        // Get product by ID
+        public Product GetProductById(int productId)
+        {
+            return _context.Products.Find(productId);
+        }
+
+        // Add a new product
+        public void AddProduct(Product product)
+        {
+            _context.Products.Add(product);
+            Save();
+        }
+
+        // Update an existing product
+        public void UpdateProduct(Product product)
+        {
+            _context.Entry(product).State = EntityState.Modified;
+            Save();
+        }
+
+        // Delete a product by ID
+        public void DeleteProduct(int productId)
+        {
+            var product = _context.Products.Find(productId);
+            if (product != null)
             {
-                new Product { Id = 1, Name = "Laptop", Price = 1500 },
-                new Product { Id = 2, Name = "Smartphone", Price = 800 },
-
-         new Product { Id = 3, Name = "Smartphone", Price = 800 },
-
-         new Product { Id = 4, Name = "Smartphone", Price = 800 }
-            };
+                _context.Products.Remove(product);
+                Save();
+            }
         }
 
-        public IEnumerable<Product> GetAllProducts()
+        // Save changes to the database
+        public void Save()
         {
-            return _products;
+            _context.SaveChanges();
         }
 
-        public Product GetProductById(int id)
-        {
-            return _products.FirstOrDefault(p => p.Id == id);
-        }
     }
 }
 

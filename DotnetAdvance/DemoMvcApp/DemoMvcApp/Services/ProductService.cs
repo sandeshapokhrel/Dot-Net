@@ -11,9 +11,10 @@ public class ProductService: IProductService
         _productRepository = productRepository;
     }
 
-    public IEnumerable<Product> GetAllProducts()
+    public IEnumerable<Product> GetProducts()
     {
-        return _productRepository.GetAllProducts();
+        return _productRepository.GetProducts();
+
     }
 
     public Product GetProduct(int id)
@@ -21,19 +22,23 @@ public class ProductService: IProductService
         return _productRepository.GetProductById(id);
     }
 
-    //public void AddProduct(Product product)
-    //{
-    //    _productRepository.Add(product);
-    //}
+    public void AddProduct(Product product)
+    {
+        _productRepository.AddProduct(product);
+    }
 
-    //public void UpdateProduct(Product product)
-    //{
-    //    _productRepository.Update(product);
-    //}
+    public void UpdateProduct(Product product)
+    {
+        _productRepository.UpdateProduct(product);
+    }
 
-    //public void DeleteProduct(int id)
-    //{
-    //    _productRepository.Delete(id);
-    //}
+    public void DeleteProduct(int id)
+    {
+        _productRepository.DeleteProduct(id);
+    }
+    public void Save()
+    {
+        _productRepository.Save();
+    }
 }
 
