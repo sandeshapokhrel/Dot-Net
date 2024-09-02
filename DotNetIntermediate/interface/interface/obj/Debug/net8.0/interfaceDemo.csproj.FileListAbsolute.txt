@@ -1,0 +1,15 @@
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\interfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\interfaceDemo.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\interfaceDemo.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\interfaceDemo.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\interfaceDemo.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\interface\interface\bin\Debug\net8.0\interfaceDemo.exe
+E:\Dot-Net\DotNetIntermediate\interface\interface\bin\Debug\net8.0\interfaceDemo.deps.json
+E:\Dot-Net\DotNetIntermediate\interface\interface\bin\Debug\net8.0\interfaceDemo.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\interface\interface\bin\Debug\net8.0\interfaceDemo.dll
+E:\Dot-Net\DotNetIntermediate\interface\interface\bin\Debug\net8.0\interfaceDemo.pdb
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\interfaceDemo.dll
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\refint\interfaceDemo.dll
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\interfaceDemo.pdb
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\interfaceDemo.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\interface\interface\obj\Debug\net8.0\ref\interfaceDemo.dll

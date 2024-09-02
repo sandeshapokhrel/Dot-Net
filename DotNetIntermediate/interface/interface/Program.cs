@@ -24,11 +24,11 @@ sealed
 Alternative of Interface
 - Abstract Class 
 */
-namespace internal interface;
-internal class Program
+namespace interfaceDemo
 {
-    static void Main(string[] args)
+      internal interface Imyinterface
     {
-        Console.WriteLine("Hello, World!");
-    }
+              public void MyMethod(); // (No private, protected assess modifires can exist) only internal and public method can be declare in interface
+
+      }
 }

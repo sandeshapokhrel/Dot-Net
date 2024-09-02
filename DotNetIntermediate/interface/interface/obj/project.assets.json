@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dot-Net\\DotNetIntermediate\\interface\\interface\\interface.csproj",
-      "projectName": "interface",
-      "projectPath": "E:\\Dot-Net\\DotNetIntermediate\\interface\\interface\\interface.csproj",
+      "projectUniqueName": "E:\\Dot-Net\\DotNetIntermediate\\interface\\interface\\interfaceDemo.csproj",
+      "projectName": "interfaceDemo",
+      "projectPath": "E:\\Dot-Net\\DotNetIntermediate\\interface\\interface\\interfaceDemo.csproj",
       "packagesPath": "C:\\Users\\sandeshapc\\.nuget\\packages\\",
       "outputPath": "E:\\Dot-Net\\DotNetIntermediate\\interface\\interface\\obj\\",
       "projectStyle": "PackageReference",
