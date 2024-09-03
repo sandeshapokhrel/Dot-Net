@@ -1,5 +1,4 @@
-# Dot-Net 
-<ins> Interface Overview </ins>
+ # <ins> Interface Overview </ins>
 
 An Interface is similar to a class but provides a specification rather than an implementation for its members. It has the following characteristics:
 
@@ -34,3 +33,10 @@ When you "seal" a method, you're indicating that no further derived classes can 
 
 ## Alternative to Interfaces
 An abstract class can be used as an alternative to an interface.
+
+# <ins> Enumeration </ins>
+Enumeration, or enum, in C# is a value type that consists of a set of named constants called the enumerator list. 
+Works on Integral value.
+Like a tye can be declare outside the class.
+Can be combined by using (flag).
+It is type Safe. 

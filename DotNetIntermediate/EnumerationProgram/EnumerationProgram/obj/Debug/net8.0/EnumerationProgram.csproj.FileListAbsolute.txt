@@ -1,0 +1,15 @@
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\bin\Debug\net8.0\EnumerationProgram.exe
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\bin\Debug\net8.0\EnumerationProgram.deps.json
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\bin\Debug\net8.0\EnumerationProgram.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\bin\Debug\net8.0\EnumerationProgram.dll
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\bin\Debug\net8.0\EnumerationProgram.pdb
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\EnumerationProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\EnumerationProgram.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\EnumerationProgram.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\EnumerationProgram.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\EnumerationProgram.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\EnumerationProgram.dll
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\refint\EnumerationProgram.dll
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\EnumerationProgram.pdb
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\EnumerationProgram.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\EnumerationProgram\EnumerationProgram\obj\Debug\net8.0\ref\EnumerationProgram.dll
