@@ -3,3 +3,13 @@ E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.AssemblyI
 E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
 E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
 E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\bin\Debug\net8.0\Generic.exe
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\bin\Debug\net8.0\Generic.deps.json
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\bin\Debug\net8.0\Generic.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\bin\Debug\net8.0\Generic.dll
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\bin\Debug\net8.0\Generic.pdb
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.dll
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\refint\Generic.dll
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.pdb
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\ref\Generic.dll
