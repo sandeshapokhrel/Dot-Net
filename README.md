@@ -39,4 +39,24 @@ Enumeration, or enum, in C# is a value type that consists of a set of named cons
 Works on Integral value.
 Like a tye can be declare outside the class.
 Can be combined by using (flag).
-It is type Safe. 
+It is type Safe.
+
+# <ins> Generic </ins>
+A generic allows you to define a class, method, delegate, or interface with placeholders for the types it operates on. These placeholders, known as type parameters, let you create flexible and reusable code that can work with any data type.
+- A generic type defines one or more type parameters, represented by placeholders (e.g., T, U, V).
+
+1.Two ways you can do Inheritance in c# through, Generic and inheritance.
+
+2.Main Advantage : Type safty, type conversion 
+
+3."T" can be used to for generic type
+
+4.The class name with generic is Khown as generic class.
+
+5.We choose generic type when we are not sure about what type of data it contain.
+
+6.Minimize autoboxing and boxing Overhead
+
+Default Generic value
+default keyword is used to get the value for a generic type parameters
+

@@ -1,0 +1,5 @@
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\Generic\Generic\obj\Debug\net8.0\Generic.sourcelink.json
