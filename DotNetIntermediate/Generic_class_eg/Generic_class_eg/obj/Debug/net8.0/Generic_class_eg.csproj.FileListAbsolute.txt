@@ -1,0 +1,15 @@
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\bin\Debug\net8.0\Generic_class_eg.exe
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\bin\Debug\net8.0\Generic_class_eg.deps.json
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\bin\Debug\net8.0\Generic_class_eg.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\bin\Debug\net8.0\Generic_class_eg.dll
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\bin\Debug\net8.0\Generic_class_eg.pdb
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\Generic_class_eg.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\Generic_class_eg.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\Generic_class_eg.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\Generic_class_eg.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\Generic_class_eg.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\Generic_class_eg.dll
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\refint\Generic_class_eg.dll
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\Generic_class_eg.pdb
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\Generic_class_eg.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\Generic_class_eg\Generic_class_eg\obj\Debug\net8.0\ref\Generic_class_eg.dll

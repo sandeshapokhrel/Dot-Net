@@ -42,12 +42,13 @@ Can be combined by using (flag).
 It is type Safe.
 
 # <ins> Generic </ins>
+A generic class in C# allows you to define a class with a placeholder (type parameter) for data types.
 A generic allows you to define a class, method, delegate, or interface with placeholders for the types it operates on. These placeholders, known as type parameters, let you create flexible and reusable code that can work with any data type.
 - A generic type defines one or more type parameters, represented by placeholders (e.g., T, U, V).
 
 1.Two ways you can do Inheritance in c# through, Generic and inheritance.
 
-2.Main Advantage : Type safty, type conversion 
+2.Main Advantage : Type safty, type conversion,performance,codereusability
 
 3."T" can be used to for generic type
 
