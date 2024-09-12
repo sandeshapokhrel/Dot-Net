@@ -25,7 +25,21 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddTransient<IProductService, ProductService>();
 
 
+// Configure CORS to allow any origin, method, and header.
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins",
+        builder =>
+        {
+            builder.AllowAnyOrigin()
+                   .AllowAnyMethod()
+                   .AllowAnyHeader();
+        });
+});
+
 var app = builder.Build();
+// Use CORS before routing or authorization middleware
+app.UseCors("AllowAllOrigins");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
