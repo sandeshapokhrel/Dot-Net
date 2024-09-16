@@ -1,0 +1,15 @@
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\bin\Debug\net8.0\indexes.exe
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\bin\Debug\net8.0\indexes.deps.json
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\bin\Debug\net8.0\indexes.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\bin\Debug\net8.0\indexes.dll
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\bin\Debug\net8.0\indexes.pdb
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\indexes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\indexes.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\indexes.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\indexes.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\indexes.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\indexes.dll
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\refint\indexes.dll
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\indexes.pdb
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\indexes.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\indexes\indexes\obj\Debug\net8.0\ref\indexes.dll

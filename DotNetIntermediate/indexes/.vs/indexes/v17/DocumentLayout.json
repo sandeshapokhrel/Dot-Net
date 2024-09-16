@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot-Net\\DotNetIntermediate\\indexes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9561484-1A8E-4BFE-A440-38B39BBFF31E}|indexes\\indexes.csproj|e:\\dot-net\\dotnetintermediate\\indexes\\indexes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9561484-1A8E-4BFE-A440-38B39BBFF31E}|indexes\\indexes.csproj|solutionrelative:indexes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotNetIntermediate\\indexes\\indexes\\Program.cs",
+              "RelativeDocumentMoniker": "indexes\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\DotNetIntermediate\\indexes\\indexes\\Program.cs",
+              "RelativeToolTip": "indexes\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:48:22.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

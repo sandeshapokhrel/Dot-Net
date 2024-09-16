@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Field_Property_Constructor_Destructor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aab38f3b3d40ef327776928fa8f31f164b58006")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a556ea92cb739af393869673c69a6d8238e0c45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Field_Property_Constructor_Destructor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Field_Property_Constructor_Destructor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
