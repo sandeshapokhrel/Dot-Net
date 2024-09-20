@@ -1,0 +1,15 @@
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.AssemblyInfoInputs.cache
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.AssemblyInfo.cs
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.csproj.CoreCompileInputs.cache
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.sourcelink.json
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.exe
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.deps.json
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.runtimeconfig.json
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.dll
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.pdb
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.dll
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\refint\EventDemo.dll
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.pdb
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.genruntimeconfig.cache
+E:\Dot-Net\DotNetIntermediate\EventDemo\EventDemo\obj\Debug\net8.0\ref\EventDemo.dll

@@ -65,3 +65,7 @@ default keyword is used to get the value for a generic type parameters
 
 Delegate is a type that represents references to methods. It allows you to encapsulate a method with a specific signature and return type. You can think of a delegate as a pointer to a function. It is used to pass methods as arguments to other methods, define callback methods, or event handling.
 
+# <ins> Event </ins>
+
+Events are objects that occur when the current state of an object changes.
+It is a way for a class (the broadcaster) to notify other classes or objects (the subscribers) when something interesting happens. It allows for communication between different parts of a program while maintaining loose coupling.
