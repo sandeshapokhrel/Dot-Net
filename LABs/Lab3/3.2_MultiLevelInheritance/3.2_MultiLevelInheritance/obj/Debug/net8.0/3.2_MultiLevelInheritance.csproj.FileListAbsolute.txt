@@ -1,0 +1,15 @@
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\bin\Debug\net8.0\3.2_MultiLevelInheritance.exe
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\bin\Debug\net8.0\3.2_MultiLevelInheritance.deps.json
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\bin\Debug\net8.0\3.2_MultiLevelInheritance.runtimeconfig.json
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\bin\Debug\net8.0\3.2_MultiLevelInheritance.dll
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\bin\Debug\net8.0\3.2_MultiLevelInheritance.pdb
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\3.2_MultiLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\3.2_MultiLevelInheritance.AssemblyInfoInputs.cache
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\3.2_MultiLevelInheritance.AssemblyInfo.cs
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\3.2_MultiLevelInheritance.csproj.CoreCompileInputs.cache
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\3.2_MultiLevelInheritance.sourcelink.json
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\3.2_MultiLevelInheritance.dll
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\refint\3.2_MultiLevelInheritance.dll
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\3.2_MultiLevelInheritance.pdb
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\3.2_MultiLevelInheritance.genruntimeconfig.cache
+E:\Dot-Net\LABs\Lab3\3.2_MultiLevelInheritance\3.2_MultiLevelInheritance\obj\Debug\net8.0\ref\3.2_MultiLevelInheritance.dll
