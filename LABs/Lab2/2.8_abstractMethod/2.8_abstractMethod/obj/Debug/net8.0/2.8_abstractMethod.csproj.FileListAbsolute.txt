@@ -1,0 +1,15 @@
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\bin\Debug\net8.0\2.8_abstractMethod.exe
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\bin\Debug\net8.0\2.8_abstractMethod.deps.json
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\bin\Debug\net8.0\2.8_abstractMethod.runtimeconfig.json
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\bin\Debug\net8.0\2.8_abstractMethod.dll
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\bin\Debug\net8.0\2.8_abstractMethod.pdb
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\2.8_abstractMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\2.8_abstractMethod.AssemblyInfoInputs.cache
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\2.8_abstractMethod.AssemblyInfo.cs
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\2.8_abstractMethod.csproj.CoreCompileInputs.cache
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\2.8_abstractMethod.sourcelink.json
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\2.8_abstractMethod.dll
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\refint\2.8_abstractMethod.dll
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\2.8_abstractMethod.pdb
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\2.8_abstractMethod.genruntimeconfig.cache
+E:\Dot-Net\LABs\Lab2\2.8_abstractMethod\2.8_abstractMethod\obj\Debug\net8.0\ref\2.8_abstractMethod.dll

@@ -1,0 +1,15 @@
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\bin\Debug\net8.0\2.13_structure.exe
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\bin\Debug\net8.0\2.13_structure.deps.json
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\bin\Debug\net8.0\2.13_structure.runtimeconfig.json
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\bin\Debug\net8.0\2.13_structure.dll
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\bin\Debug\net8.0\2.13_structure.pdb
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\2.13_structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\2.13_structure.AssemblyInfoInputs.cache
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\2.13_structure.AssemblyInfo.cs
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\2.13_structure.csproj.CoreCompileInputs.cache
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\2.13_structure.sourcelink.json
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\2.13_structure.dll
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\refint\2.13_structure.dll
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\2.13_structure.pdb
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\2.13_structure.genruntimeconfig.cache
+E:\Dot-Net\LABs\Lab2\2.13_structure\2.13_structure\obj\Debug\net8.0\ref\2.13_structure.dll

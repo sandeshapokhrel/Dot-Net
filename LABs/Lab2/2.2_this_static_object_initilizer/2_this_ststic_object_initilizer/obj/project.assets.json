@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dot-Net\\LABs\\Lab2\\2_this_ststic_object_initilizer\\2_this_ststic_object_initilizer\\2.2_this_ststic_object_initilizer.csproj",
+      "projectUniqueName": "E:\\Dot-Net\\LABs\\Lab2\\2.2_this_static_object_initilizer\\2_this_ststic_object_initilizer\\2.2_this_ststic_object_initilizer.csproj",
       "projectName": "2.2_this_ststic_object_initilizer",
-      "projectPath": "E:\\Dot-Net\\LABs\\Lab2\\2_this_ststic_object_initilizer\\2_this_ststic_object_initilizer\\2.2_this_ststic_object_initilizer.csproj",
+      "projectPath": "E:\\Dot-Net\\LABs\\Lab2\\2.2_this_static_object_initilizer\\2_this_ststic_object_initilizer\\2.2_this_ststic_object_initilizer.csproj",
       "packagesPath": "C:\\Users\\sandeshapc\\.nuget\\packages\\",
-      "outputPath": "E:\\Dot-Net\\LABs\\Lab2\\2_this_ststic_object_initilizer\\2_this_ststic_object_initilizer\\obj\\",
+      "outputPath": "E:\\Dot-Net\\LABs\\Lab2\\2.2_this_static_object_initilizer\\2_this_ststic_object_initilizer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

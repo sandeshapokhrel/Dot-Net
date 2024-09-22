@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot-Net\\LABs\\Lab2\\2.7_virtualKeyword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D43EA8E-C06B-4374-A892-D66BF7A84C9B}|2.7_virtualKeyword\\2.7_virtualKeyword.csproj|e:\\dot-net\\labs\\lab2\\2.7_virtualkeyword\\2.7_virtualkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D43EA8E-C06B-4374-A892-D66BF7A84C9B}|2.7_virtualKeyword\\2.7_virtualKeyword.csproj|solutionrelative:2.7_virtualkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\LABs\\Lab2\\2.7_virtualKeyword\\2.7_virtualKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "2.7_virtualKeyword\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\LABs\\Lab2\\2.7_virtualKeyword\\2.7_virtualKeyword\\Program.cs",
+              "RelativeToolTip": "2.7_virtualKeyword\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:47:23.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

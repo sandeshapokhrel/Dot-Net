@@ -1,0 +1,15 @@
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\bin\Debug\net8.0\2._4_ref_out.exe
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\bin\Debug\net8.0\2._4_ref_out.deps.json
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\bin\Debug\net8.0\2._4_ref_out.runtimeconfig.json
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\bin\Debug\net8.0\2._4_ref_out.dll
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\bin\Debug\net8.0\2._4_ref_out.pdb
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\2._4_ref_out.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\2._4_ref_out.AssemblyInfoInputs.cache
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\2._4_ref_out.AssemblyInfo.cs
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\2._4_ref_out.csproj.CoreCompileInputs.cache
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\2._4_ref_out.sourcelink.json
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\2._4_ref_out.dll
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\refint\2._4_ref_out.dll
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\2._4_ref_out.pdb
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\2._4_ref_out.genruntimeconfig.cache
+E:\Dot-Net\LABs\Lab2\2._4_ref_out\2._4_ref_out\obj\Debug\net8.0\ref\2._4_ref_out.dll

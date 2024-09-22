@@ -1,0 +1,15 @@
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\bin\Debug\net8.0\2.12_generic.exe
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\bin\Debug\net8.0\2.12_generic.deps.json
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\bin\Debug\net8.0\2.12_generic.runtimeconfig.json
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\bin\Debug\net8.0\2.12_generic.dll
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\bin\Debug\net8.0\2.12_generic.pdb
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\2.12_generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\2.12_generic.AssemblyInfoInputs.cache
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\2.12_generic.AssemblyInfo.cs
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\2.12_generic.csproj.CoreCompileInputs.cache
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\2.12_generic.sourcelink.json
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\2.12_generic.dll
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\refint\2.12_generic.dll
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\2.12_generic.pdb
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\2.12_generic.genruntimeconfig.cache
+E:\Dot-Net\LABs\Lab2\2.12_generic\2.12_generic\obj\Debug\net8.0\ref\2.12_generic.dll

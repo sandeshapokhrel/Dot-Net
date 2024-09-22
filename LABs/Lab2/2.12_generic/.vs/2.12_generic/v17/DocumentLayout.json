@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot-Net\\LABs\\Lab2\\2.12_generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06AE35C2-DEBF-497A-A43C-355225C03015}|2.12_generic\\2.12_generic.csproj|e:\\dot-net\\labs\\lab2\\2.12_generic\\2.12_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06AE35C2-DEBF-497A-A43C-355225C03015}|2.12_generic\\2.12_generic.csproj|solutionrelative:2.12_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\LABs\\Lab2\\2.12_generic\\2.12_generic\\Program.cs",
+              "RelativeDocumentMoniker": "2.12_generic\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\LABs\\Lab2\\2.12_generic\\2.12_generic\\Program.cs",
+              "RelativeToolTip": "2.12_generic\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:48:28.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
