@@ -1,4 +1,5 @@
-﻿namespace _3._1_Single_Inheritance
+﻿//Write a program to show the single inheritance.  
+namespace _3._1_Single_Inheritance
 {
     internal class Program
     {

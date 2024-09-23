@@ -3,7 +3,9 @@
     "",
     "\\DemoMvcApp",
     "\\DemoMvcApp\\Models",
-    "\\DemoMvcApp\\Repositories"
+    "\\DemoMvcApp\\Repositories",
+    "\\DemoMvcApp\\Services"
   ],
+  "SelectedNode": "\\DemoMvcApp\\DemoMvcApp.csproj.user",
   "PreviewInSolutionExplorer": false
 }

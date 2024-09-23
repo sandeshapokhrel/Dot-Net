@@ -276,3 +276,4 @@ E:\Dot-Net\DotnetAdvance\DemoMvcApp\DemoMvcApp\DemoMvcApp\obj\Debug\net8.0\refin
 E:\Dot-Net\DotnetAdvance\DemoMvcApp\DemoMvcApp\DemoMvcApp\obj\Debug\net8.0\DemoMvcApp.pdb
 E:\Dot-Net\DotnetAdvance\DemoMvcApp\DemoMvcApp\DemoMvcApp\obj\Debug\net8.0\DemoMvcApp.genruntimeconfig.cache
 E:\Dot-Net\DotnetAdvance\DemoMvcApp\DemoMvcApp\DemoMvcApp\obj\Debug\net8.0\ref\DemoMvcApp.dll
+E:\Dot-Net\DotnetAdvance\DemoMvcApp\DemoMvcApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
