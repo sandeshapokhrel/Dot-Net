@@ -61,9 +61,23 @@ A generic allows you to define a class, method, delegate, or interface with plac
 Default Generic value
 default keyword is used to get the value for a generic type parameters
 
+# <ins> struct </ins>
+The struct (structure) is like a class in C# that is used to store data. However, unlike classes, a struct is a value type.
+
+Suppose we want to store the name and age of a person. We can create two variables: name and age and store value.
+
+However, suppose we want to store the same information of multiple people.
+
+
 # <ins> A delegate </ins>
 
 Delegate is a type that represents references to methods. It allows you to encapsulate a method with a specific signature and return type. You can think of a delegate as a pointer to a function. It is used to pass methods as arguments to other methods, define callback methods, or event handling.
+
+
+Key Points:
+- Delegate declaration: It defines a signature (method parameters and return type) for methods that can be referenced.
+- Method matching: Any method with the same signature can be assigned to a delegate.
+- Invocation: You can invoke the method via the delegate instance.
 
 # <ins> Event </ins>
 

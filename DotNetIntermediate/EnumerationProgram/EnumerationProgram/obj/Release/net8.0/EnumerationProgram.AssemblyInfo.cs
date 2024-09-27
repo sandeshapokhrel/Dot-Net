@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnumerationProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+625c250f1422052cb343a2b2c3d076b5e362c73b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a15ab14c7a072194c1a0f4321efeb71748f5f9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnumerationProgram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnumerationProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
