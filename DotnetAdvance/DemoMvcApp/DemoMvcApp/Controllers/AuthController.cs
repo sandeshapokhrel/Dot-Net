@@ -9,15 +9,17 @@ namespace DemoMvcApp.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-
         private readonly IUserRepository _userRepository;
+        private readonly IProductRepository _productRepository;
         private readonly JwtTokenHelper _jwtTokenHelper;
 
-        public AuthController(IUserRepository userRepository, JwtTokenHelper jwtTokenHelper)
+        public AuthController(IUserRepository userRepository, IProductRepository productRepository, JwtTokenHelper jwtTokenHelper)
         {
             _userRepository = userRepository;
+            _productRepository = productRepository;
             _jwtTokenHelper = jwtTokenHelper;
         }
+
         [HttpPost("login")]
         public IActionResult Login([FromBody] DTOs.UserLoginDto loginDto)
         {
@@ -35,7 +37,8 @@ namespace DemoMvcApp.Controllers
         [HttpGet("Secure-data")]
         public IActionResult GetSecureData()
         {
-            return Ok("This is secure data");
+            var products = _productRepository.GetProducts(); // Get product data
+            return Ok(products);
         }
 
         [Authorize(Roles = "Admin")]
@@ -44,6 +47,5 @@ namespace DemoMvcApp.Controllers
         {
             return Ok("Admin-only data");
         }
-
     }
 }

@@ -2,6 +2,8 @@
 using DemoMvcApp.Repositories;
 using DemoMvcApp.Services;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace DemoMvcApp.Controllers
 {
@@ -11,9 +13,9 @@ namespace DemoMvcApp.Controllers
     {
         private readonly IProductService _productService;
 
-        public ProductsController(IProductService productRepository)
+        public ProductsController(IProductService productService)
         {
-            _productService = productRepository; // Inject dependency
+            _productService = productService; // Inject dependency
         }
 
         [HttpGet]
@@ -33,11 +35,12 @@ namespace DemoMvcApp.Controllers
 
             return Ok(product);
         }
+
         [HttpPost]
         public IActionResult Post(Product product)
         {
             _productService.AddProduct(product);
-            return CreatedAtAction(nameof(GetProducts), new { id = product.Id }, product);
+            return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, product);
         }
 
         [HttpPut("{id}")]
@@ -58,5 +61,25 @@ namespace DemoMvcApp.Controllers
             return NoContent();
         }
 
+        // New search endpoint
+        [HttpGet("search")]
+        public ActionResult<IEnumerable<Product>> SearchProducts([FromQuery] string query)
+        {
+            if (string.IsNullOrEmpty(query))
+            {
+                return BadRequest("Search query cannot be empty");
+            }
+
+            var products = _productService.GetProducts()
+                             .Where(p => p.Name.Contains(query, System.StringComparison.OrdinalIgnoreCase) || p.Id.ToString() == query)
+                             .ToList();
+
+            if (!products.Any())
+            {
+                return NotFound("No products found with the given search query");
+            }
+
+            return Ok(products);
+        }
     }
 }
