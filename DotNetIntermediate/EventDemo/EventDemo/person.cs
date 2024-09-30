@@ -7,10 +7,9 @@ using System.Threading.Tasks;
 namespace EventDemo
 {
     public delegate void MyDel();
-    public class person
+    internal class Person
     {
         string name;
-
         public MyDel del;
         public string Name
         {
@@ -18,7 +17,7 @@ namespace EventDemo
             set
             {
                 name = value;
-                if (del != null)
+                if (del != null) //if null assign the vlue del () - null coalesing assignment operator
                 {
                     del();
                 }
