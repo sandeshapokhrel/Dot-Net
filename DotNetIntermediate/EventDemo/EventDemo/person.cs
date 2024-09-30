@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace EventDemo
-{ public delegate void MyDel();
+{
+    public delegate void MyDel();
     public class person
     {
         string name;
@@ -21,6 +22,7 @@ namespace EventDemo
                 {
                     del();
                 }
-            }   }
+            }
+        }
     }
 }

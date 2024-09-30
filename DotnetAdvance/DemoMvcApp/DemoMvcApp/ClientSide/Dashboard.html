@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Dashboard</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<div class="container">
+    	<h2 class="my-4">Product Dashboard</h2>
+   	 
+    	<!-- Product Form -->
+    	<form id="productForm">
+        	<input type="hidden" id="productId">
+        	<div class="form-group">
+            	<label for="productName">Product Name</label>
+            	<input type="text" id="productName" class="form-control" required>
+        	</div>
+        	<div class="form-group">
+            	<label for="productPrice">Price</label>
+            	<input type="number" id="productPrice" class="form-control" required>
+        	</div>
+        	<div class="form-group">
+            	<label for="productImage">Image</label>
+            	<input type="file" id="productImage" class="form-control-file" required>
+        	</div>
+        	<button type="submit" class="btn btn-success">Save Product</button>
+    	</form>
+   	 
+    	<!-- Product Grid -->
+    	<table class="table table-striped mt-4">
+        	<thead>
+            	<tr>
+                	<th>Image</th>
+                	<th>Name</th>
+                	<th>Price</th>
+                	<th>Actions</th>
+            	</tr>
+        	</thead>
+        	<tbody id="productGrid"></tbody>
+    	</table>
+	</div>
+    
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="js/script.js"></script>
+</body>
+</html>

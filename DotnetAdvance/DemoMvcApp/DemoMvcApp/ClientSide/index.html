@@ -6,6 +6,12 @@
     <title>Login and Search Products</title>
     <!-- jQuery CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        #mainContent {
+            display: none; /* Hide the main content initially */
+        }
+    </style>
 </head>
 <body>
 
@@ -16,28 +22,34 @@
         <button type="submit">Login</button>
     </form>
 
-    <button id="getProtectedData">Get All Products</button>
+    <!-- Main Content (Initially Hidden) -->
+    <div id="mainContent">
+        <button id="getProtectedData">Get All Products</button>
+        
+        <!-- Manage Button -->
+        <button id="manageButton">Manage Products</button> <!-- Add this button -->
 
-    <!-- Search Form -->
-    <div>
-        <input type="text" id="searchQuery" placeholder="Search by product name or ID">
-        <button id="searchProduct">Search</button>
+        <!-- Search Form -->
+        <div>
+            <input type="text" id="searchQuery" placeholder="Search by product name or ID">
+            <button id="searchProduct">Search</button>
+        </div>
+
+        <!-- Data Grid (Table) -->
+        <h3>Product List</h3>
+        <table border="1" id="productGrid">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be added dynamically here -->
+            </tbody>
+        </table>
     </div>
-
-    <!-- Data Grid (Table) -->
-    <h3>Product List</h3>
-    <table border="1" id="productGrid">
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Name</th>
-                <th>Price</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Data will be added dynamically here -->
-        </tbody>
-    </table>
 
     <script>
         $(document).ready(function() {
@@ -56,6 +68,8 @@
                         // Store JWT in localStorage
                         localStorage.setItem('jwt', response.token);
                         alert('Login successful!');
+                        $('#loginForm').hide(); // Hide login form
+                        $('#mainContent').show(); // Show main content
                     },
                     error: function() {
                         alert('Login failed!');
@@ -120,6 +134,11 @@
                     });
                 }
             }
+
+            // Manage Products Button Click Event
+            $('#manageButton').click(function() {
+                window.location.href = 'CURD.html'; // Redirect to CURD.html
+            });
         });
     </script>
 
