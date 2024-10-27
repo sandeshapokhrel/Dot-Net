@@ -10,7 +10,7 @@ namespace ProductApp.Data
         public DemoDbContext(DbContextOptions<DemoDbContext> options) : base(options) { }
 
         public DbSet<Product> Products { get; set; }
-        public DbSet<ImageDetail> ImageDetails { get; set; } // Ensure this is included
+        public DbSet<ImageDetail> ImageDetails { get; set; } 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

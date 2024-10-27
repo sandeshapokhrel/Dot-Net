@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ProductApp",
     "\\ProductApp\\Controllers",
     "\\ProductApp\\Data",
-    "\\ProductApp\\Migrations",
     "\\ProductApp\\Models",
     "\\ProductApp\\Repositories"
   ],
-  "SelectedNode": "\\ProductApp.sln",
+  "SelectedNode": "\\ProductApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

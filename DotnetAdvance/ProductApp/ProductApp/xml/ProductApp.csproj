@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<!-- Change this to your desired framework version -->
+	</PropertyGroup>
+</Project>

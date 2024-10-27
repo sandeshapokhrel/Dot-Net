@@ -3,64 +3,72 @@
   "WorkspaceRootPath": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\models\\imagedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\models\\imagedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\repositories\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\repositories\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\productapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\productapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Migrations\\20241025151044_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Migrations\\20241025151044_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\IproductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Services\\IproductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|e:\\dot-net\\dotnetadvance\\productapp\\productapp\\migrations\\20241025152910_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4823F-192A-4835-AB9A-A6F6FC58AAD0}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\migrations\\20241025152910_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Repositories\\productRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Repositories\\productRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Repositories\\IproductRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Repositories\\IproductRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\ImageDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Models\\ImageDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Data\\DemoDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Data\\DemoDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\wwwroot\\images\\da71f4fa-d13e-4071-a0b3-55a730d46063.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\wwwroot\\images\\da71f4fa-d13e-4071-a0b3-55a730d46063.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\wwwroot\\images\\63b5ff6b-fc9c-43df-8a34-ebc7f9e82266.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\wwwroot\\images\\63b5ff6b-fc9c-43df-8a34-ebc7f9e82266.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\xml\\ProductApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\xml\\ProductApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\ProductApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApp\\ProductApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,85 +78,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductApp\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductApp\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAI8AAAAAAAAAAAAowKUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:14:07.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ProductApp\\Models\\Product.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\Product.cs",
-              "RelativeToolTip": "ProductApp\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T15:22:49.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DemoDbContext.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Data\\DemoDbContext.cs",
-              "RelativeDocumentMoniker": "ProductApp\\Data\\DemoDbContext.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Data\\DemoDbContext.cs",
-              "RelativeToolTip": "ProductApp\\Data\\DemoDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T09:40:23.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IproductRepo.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Repositories\\IproductRepo.cs",
-              "RelativeDocumentMoniker": "ProductApp\\Repositories\\IproductRepo.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Repositories\\IproductRepo.cs",
-              "RelativeToolTip": "ProductApp\\Repositories\\IproductRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductApp\\Services\\ProductService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T08:52:50.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImageDetail.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\ImageDetail.cs",
-              "RelativeDocumentMoniker": "ProductApp\\Models\\ImageDetail.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\ImageDetail.cs",
-              "RelativeToolTip": "ProductApp\\Models\\ImageDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T09:14:24.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Program.cs",
-              "RelativeDocumentMoniker": "ProductApp\\Program.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Program.cs",
-              "RelativeToolTip": "ProductApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T09:53:05.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T09:23:03.31Z"
             },
             {
               "$type": "Document",
@@ -158,27 +100,159 @@
               "RelativeDocumentMoniker": "ProductApp\\appsettings.json",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\appsettings.json",
               "RelativeToolTip": "ProductApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-25T09:49:35.864Z",
+              "WhenOpened": "2024-10-25T09:49:35.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductApp\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T12:03:27.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Program.cs",
+              "RelativeToolTip": "ProductApp\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:53:05.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IproductService.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\IproductService.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Services\\IproductService.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\IproductService.cs",
+              "RelativeToolTip": "ProductApp\\Services\\IproductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:10:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "productRepo.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Repositories\\productRepo.cs",
               "RelativeDocumentMoniker": "ProductApp\\Repositories\\productRepo.cs",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Repositories\\productRepo.cs",
               "RelativeToolTip": "ProductApp\\Repositories\\productRepo.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAawEoAAAAJAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T11:25:09.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T11:25:09.194Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IproductRepo.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Repositories\\IproductRepo.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Repositories\\IproductRepo.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Repositories\\IproductRepo.cs",
+              "RelativeToolTip": "ProductApp\\Repositories\\IproductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:52:50.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Models\\Product.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:22:49.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageDetail.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\ImageDetail.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Models\\ImageDetail.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Models\\ImageDetail.cs",
+              "RelativeToolTip": "ProductApp\\Models\\ImageDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:14:24.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DemoDbContext.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Data\\DemoDbContext.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Data\\DemoDbContext.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Data\\DemoDbContext.cs",
+              "RelativeToolTip": "ProductApp\\Data\\DemoDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:40:23.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAgwKUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:14:07.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "da71f4fa-d13e-4071-a0b3-55a730d46063.png - PNG [680x507, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\wwwroot\\images\\da71f4fa-d13e-4071-a0b3-55a730d46063.png",
+              "RelativeDocumentMoniker": "ProductApp\\wwwroot\\images\\da71f4fa-d13e-4071-a0b3-55a730d46063.png",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\wwwroot\\images\\da71f4fa-d13e-4071-a0b3-55a730d46063.png - PNG [680x507, 32 bit, PNG]",
+              "RelativeToolTip": "ProductApp\\wwwroot\\images\\da71f4fa-d13e-4071-a0b3-55a730d46063.png - PNG [680x507, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-27T05:21:44.821Z",
+              "EditorCaption": " - PNG [680x507, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "63b5ff6b-fc9c-43df-8a34-ebc7f9e82266.png - PNG [872x401, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\wwwroot\\images\\63b5ff6b-fc9c-43df-8a34-ebc7f9e82266.png",
+              "RelativeDocumentMoniker": "ProductApp\\wwwroot\\images\\63b5ff6b-fc9c-43df-8a34-ebc7f9e82266.png",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\wwwroot\\images\\63b5ff6b-fc9c-43df-8a34-ebc7f9e82266.png - PNG [872x401, 32 bit, PNG]",
+              "RelativeToolTip": "ProductApp\\wwwroot\\images\\63b5ff6b-fc9c-43df-8a34-ebc7f9e82266.png - PNG [872x401, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-27T05:21:42.663Z",
+              "EditorCaption": " - PNG [872x401, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductApp.csproj",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\xml\\ProductApp.csproj",
+              "RelativeDocumentMoniker": "ProductApp\\xml\\ProductApp.csproj",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\xml\\ProductApp.csproj",
+              "RelativeToolTip": "ProductApp\\xml\\ProductApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T05:13:37.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProductApp\\Views\\Shared\\_Layout.cshtml",
@@ -186,75 +260,23 @@
               "RelativeToolTip": "ProductApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T14:46:54.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T14:46:54.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "ProductApp\\Services\\ProductService.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\ProductService.cs",
-              "RelativeToolTip": "ProductApp\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBMAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T09:23:03.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IproductService.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\IproductService.cs",
-              "RelativeDocumentMoniker": "ProductApp\\Services\\IproductService.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Services\\IproductService.cs",
-              "RelativeToolTip": "ProductApp\\Services\\IproductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T09:10:09.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ProductApp\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ProductApp\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-25T12:03:27.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ProductApp.csproj",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\ProductApp.csproj",
               "RelativeDocumentMoniker": "ProductApp\\ProductApp.csproj",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\ProductApp.csproj",
               "RelativeToolTip": "ProductApp\\ProductApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-25T09:23:58.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T09:23:58.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20241025152910_init.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Migrations\\20241025152910_init.cs",
-              "RelativeDocumentMoniker": "ProductApp\\Migrations\\20241025152910_init.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Migrations\\20241025152910_init.cs",
-              "RelativeToolTip": "ProductApp\\Migrations\\20241025152910_init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T15:29:10.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "20241025151044_init.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductApp\\ProductApp\\Migrations\\20241025151044_init.cs",
               "RelativeDocumentMoniker": "ProductApp\\Migrations\\20241025151044_init.cs",
