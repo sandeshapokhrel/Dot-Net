@@ -43,7 +43,7 @@ namespace ProductAppApi.Controllers
 
         // POST: api/product
         [HttpPost]
-        public async Task<ActionResult<Product>> Create([FromBody] Product product)
+        public async Task<ActionResult<Product>> Create([FromForm] Product product)
         {
             // Ensure the incoming product is valid
             if (!ModelState.IsValid)
