@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot-Net\\DotNetIntermediate\\StockEventDelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB424D4-9709-4E0F-98F9-C6F506FD2AF3}|StockEventDelegate\\StockEventDelegate.csproj|e:\\dot-net\\dotnetintermediate\\stockeventdelegate\\stockeventdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB424D4-9709-4E0F-98F9-C6F506FD2AF3}|StockEventDelegate\\StockEventDelegate.csproj|solutionrelative:stockeventdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotNetIntermediate\\StockEventDelegate\\StockEventDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "StockEventDelegate\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\DotNetIntermediate\\StockEventDelegate\\StockEventDelegate\\Program.cs",
+              "RelativeToolTip": "StockEventDelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:02:09.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

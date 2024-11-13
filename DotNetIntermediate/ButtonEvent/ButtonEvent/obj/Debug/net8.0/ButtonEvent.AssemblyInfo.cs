@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ButtonEvent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04648f92446b5bc7c0dc143f052649eab90cd49c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12dc31117bc28d031b85c30ae2c9e7327f0314fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ButtonEvent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ButtonEvent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

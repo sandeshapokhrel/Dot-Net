@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using ProductAppClientSide.Models; 
 using System.Net.Http;
 using System.Text;
@@ -18,11 +17,8 @@ namespace ProductAppClientSide.Controllers
             _authService = authService;
             _httpContextAccessor = httpContextAccessor;
         }
-        [HttpGet]
-        public IActionResult Login()
-        {  
-            return View();
-        }
+
+        public IActionResult Login() => View();
 
         [HttpPost]
         public async Task<IActionResult> Login(UserLogin loginModel)

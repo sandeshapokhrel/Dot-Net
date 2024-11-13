@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027135551_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027135551_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\repositories\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\repositories\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,44 +43,44 @@
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\repositories\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\repositories\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\productappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\productappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027125548_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027125548_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027134416_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027134416_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\utilities\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\utilities\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027074535_updateimagedetailschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027074535_updateimagedetailschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,8 +91,8 @@
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\repositories\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027074535_updateimagedetailschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027074535_updateimagedetailschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027073348_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027073348_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\models\\imagedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,32 +103,12 @@
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027073348_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027073348_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027125548_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027125548_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027135551_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027135551_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|e:\\dot-net\\dotnetadvance\\productappapi\\productappapi\\migrations\\20241027134416_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E077571-9591-4CD3-BFE2-22DBB2A42175}|ProductAppApi\\ProductAppApi.csproj|solutionrelative:productappapi\\migrations\\20241027134416_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,31 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\DTOs\\ProductDto.cs",
-              "RelativeDocumentMoniker": "ProductAppApi\\DTOs\\ProductDto.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\DTOs\\ProductDto.cs",
-              "RelativeToolTip": "ProductAppApi\\DTOs\\ProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductAppApi\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductAppApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T11:37:11.352Z"
+              "WhenOpened": "2024-10-27T06:51:19.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\DTOs\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "ProductAppApi\\DTOs\\UserLoginDto.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\DTOs\\UserLoginDto.cs",
-              "RelativeToolTip": "ProductAppApi\\DTOs\\UserLoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:07:04.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "20241027135551_third.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Migrations\\20241027135551_third.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Migrations\\20241027135551_third.cs",
@@ -162,7 +151,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "ProductAppApi\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "ProductAppApi\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:07:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\appsettings.json",
               "RelativeDocumentMoniker": "ProductAppApi\\appsettings.json",
@@ -174,7 +175,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ProductAppApi\\DTOs\\ProductDto.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "ProductAppApi\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:37:11.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IUserRepo.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Repositories\\IUserRepo.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Repositories\\IUserRepo.cs",
@@ -186,20 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductAppApi\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductAppApi\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwCsAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T06:51:19.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Services\\UserService.cs",
@@ -223,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Models\\Product.cs",
@@ -235,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Models\\User.cs",
@@ -247,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IUserService.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Services\\IUserService.cs",
@@ -259,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Program.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Program.cs",
@@ -271,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Repositories\\UserRepo.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Repositories\\UserRepo.cs",
@@ -295,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ProductService.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Services\\ProductService.cs",
@@ -307,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 15,
               "Title": "20241027125548_AddUserTable.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Migrations\\20241027125548_AddUserTable.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Migrations\\20241027125548_AddUserTable.cs",
@@ -319,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 16,
               "Title": "20241027134416_MigrationName.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Migrations\\20241027134416_MigrationName.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Migrations\\20241027134416_MigrationName.cs",
@@ -331,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "JwtTokenHelper.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Utilities\\JwtTokenHelper.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Utilities\\JwtTokenHelper.cs",
@@ -343,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "20241027074535_UpdateImageDetailSchema.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Migrations\\20241027074535_UpdateImageDetailSchema.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Migrations\\20241027074535_UpdateImageDetailSchema.cs",
@@ -355,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Repositories\\ProductRepo.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Repositories\\ProductRepo.cs",
@@ -367,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "DemoDbContext.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Data\\DemoDbContext.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Data\\DemoDbContext.cs",
@@ -379,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "IproductRepo.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Repositories\\IproductRepo.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Repositories\\IproductRepo.cs",
@@ -391,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "20241027073348_initial.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Migrations\\20241027073348_initial.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Migrations\\20241027073348_initial.cs",
@@ -403,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ImageDetails.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Models\\ImageDetails.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Models\\ImageDetails.cs",
@@ -415,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductAppApi\\Properties\\launchSettings.json",
@@ -427,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\WeatherForecast.cs",
@@ -439,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "IproductService.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Services\\IproductService.cs",
               "RelativeDocumentMoniker": "ProductAppApi\\Services\\IproductService.cs",

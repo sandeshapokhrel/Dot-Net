@@ -76,6 +76,7 @@ Delegate is a type that represents references to methods. It allows you to encap
 
 Key Points:
 - Delegate declaration: It defines a signature (method parameters and return type) for methods that can be referenced.
+ Delegate happens with subscriber and brodcaster model to handel event handeling.
 - Method matching: Any method with the same signature can be assigned to a delegate.
 - Invocation: You can invoke the method via the delegate instance.
 

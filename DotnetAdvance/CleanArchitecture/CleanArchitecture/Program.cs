@@ -5,6 +5,7 @@ using CleanArchitecture.UseCase;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using AutoMapper;
+using Microsoft.AspNetCore.Hosting;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,7 +21,10 @@ builder.Services.AddScoped<IProductRepo, ProductRepo>();
 builder.Services.AddScoped<ProductUseCase>();
 
 // AutoMapper configuration (scan all assemblies for profiles)
-builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddAutoMapper(typeof(ApplicationDbContext).Assembly);
+
+
+
 
 // Add controllers
 builder.Services.AddControllers();
