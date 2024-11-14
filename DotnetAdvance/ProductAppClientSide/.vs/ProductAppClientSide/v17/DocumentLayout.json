@@ -3,27 +3,59 @@
   "WorkspaceRootPath": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Sdk.Razor.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\views\\product\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\views\\product\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\productappclientside.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\productappclientside.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Sdk.Razor.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,40 +70,8 @@
       "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\views\\product\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\views\\product\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|e:\\dot-net\\dotnetadvance\\productappclientside\\productappclientside\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF36158E-2EEC-40BB-A83A-DA540B62EAF6}|ProductAppClientSide\\ProductAppClientSide.csproj|solutionrelative:productappclientside\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,7 +81,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,68 +89,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "ProductAppClientSide\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\AuthService.cs",
+              "RelativeToolTip": "ProductAppClientSide\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:18:45.032Z",
+              "WhenOpened": "2024-10-28T14:54:06.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Program.cs",
               "RelativeDocumentMoniker": "ProductAppClientSide\\Program.cs",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Program.cs",
               "RelativeToolTip": "ProductAppClientSide\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDkAAAAAAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:13:41.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductAppClientSide.csproj",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\ProductAppClientSide.csproj",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\ProductAppClientSide.csproj",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\ProductAppClientSide.csproj",
-              "RelativeToolTip": "ProductAppClientSide\\ProductAppClientSide.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-28T14:52:35.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Views\\Account\\Login.cshtml",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "ProductAppClientSide\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T12:12:24.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProductAppClientSide\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:35:43.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\appsettings.json",
               "RelativeDocumentMoniker": "ProductAppClientSide\\appsettings.json",
@@ -162,19 +126,156 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Services\\IAuthServices.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\IAuthServices.cs",
+              "RelativeToolTip": "ProductAppClientSide\\Services\\IAuthServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:53:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Models\\UserLogin.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Models\\UserLogin.cs",
+              "RelativeToolTip": "ProductAppClientSide\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:11:38.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductAppClientSide\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:03:01.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductAppClientSide\\Services\\ProductService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:54:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductAppClientSide\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:35:43.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProductAppClientSide\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:18:45.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Product\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Views\\Product\\Dashboard.cshtml",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Product\\Dashboard.cshtml",
+              "RelativeToolTip": "ProductAppClientSide\\Views\\Product\\Dashboard.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAqwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T11:49:34.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProductAppClientSide\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:12:24.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Services\\IProductService.cs",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductAppClientSide\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:54:38.653Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ProductAppClientSide.csproj",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\ProductAppClientSide.csproj",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\ProductAppClientSide.csproj",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\ProductAppClientSide.csproj",
+              "RelativeToolTip": "ProductAppClientSide\\ProductAppClientSide.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T14:52:35.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductAppClientSide\\Views\\Index.cshtml",
+              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Index.cshtml",
+              "RelativeToolTip": "ProductAppClientSide\\Views\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:10:13.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductAppClientSide\\Properties\\launchSettings.json",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Properties\\launchSettings.json",
               "RelativeToolTip": "ProductAppClientSide\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAHAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-09T14:27:51.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductAppClientSide\\Models\\Product.cs",
@@ -186,118 +287,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Services\\AuthService.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\AuthService.cs",
-              "RelativeToolTip": "ProductAppClientSide\\Services\\AuthService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAIBJwBYAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:54:06.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProductAppClientSide\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ProductAppClientSide\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T14:21:55.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAuthServices.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\IAuthServices.cs",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Services\\IAuthServices.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\IAuthServices.cs",
-              "RelativeToolTip": "ProductAppClientSide\\Services\\IAuthServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:53:45.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserLogin.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Models\\UserLogin.cs",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Models\\UserLogin.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Models\\UserLogin.cs",
-              "RelativeToolTip": "ProductAppClientSide\\Models\\UserLogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:11:38.363Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductAppClientSide\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAABQwA0AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:03:01.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Services\\ProductService.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\ProductService.cs",
-              "RelativeToolTip": "ProductAppClientSide\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBcAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:54:58.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Product\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Views\\Product\\Dashboard.cshtml",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Product\\Dashboard.cshtml",
-              "RelativeToolTip": "ProductAppClientSide\\Views\\Product\\Dashboard.cshtml",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAqwGsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T11:49:34.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Services\\IProductService.cs",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Services\\IProductService.cs",
-              "RelativeToolTip": "ProductAppClientSide\\Services\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:54:38.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProductAppClientSide\\Views\\Index.cshtml",
-              "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppClientSide\\ProductAppClientSide\\Views\\Index.cshtml",
-              "RelativeToolTip": "ProductAppClientSide\\Views\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T14:10:13.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Sdk.Razor.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Sdk.Razor.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Sdk.Razor.CurrentVersion.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-10-28T15:11:27.219Z"
             }
