@@ -1,51 +1,68 @@
 ﻿using System;
 
-namespace StockEventDelegate
+public class PriceChangedEventArgs : EventArgs
 {
-    public delegate void PriceChangedHandler(decimal oldPrice, decimal newPrice);
+    public decimal LastPrice { get; }
+    public decimal NewPrice { get; }
 
-    public class Stock
+    public PriceChangedEventArgs(decimal lastPrice, decimal newPrice)
     {
-        private string symbol;
-        private decimal price;
+        LastPrice = lastPrice;
+        NewPrice = newPrice;
+    }
+}
 
-        public Stock(string symbol)
-        {
-            this.symbol = symbol;
-        }
+public class Stock
+{
+    private string symbol;
+    private decimal price;
 
-        public event PriceChangedHandler PriceChanged;
-
-        public decimal Price
-        {
-            get { return price; }
-            set
-            {
-                if (price == value) return; // Exit if nothing has changed
-
-                decimal oldPrice = price;
-                price = value;
-
-                // Raise the event
-                PriceChanged?.Invoke(oldPrice, price);
-            }
-        }
+    public Stock(string symbol)
+    {
+        this.symbol = symbol;
     }
 
-    internal class Program
+    public event EventHandler<PriceChangedEventArgs> PriceChanged;
+
+    protected virtual void OnPriceChanged(PriceChangedEventArgs e)
     {
-        static void Main(string[] args)
-        {
-            Stock stock = new Stock("AAPL");
-            stock.PriceChanged += Stock_PriceChanged;
+        PriceChanged?.Invoke(this, e);
+    }
 
-            stock.Price = 150.00m; // Set initial price
-            stock.Price = 155.50m; // Update price to trigger the event
+    public decimal Price
+    {
+        get { return price; }
+        set
+        {
+            if (price == value) return;
+
+            decimal oldPrice = price;
+            price = value;
+
+            OnPriceChanged(new PriceChangedEventArgs(oldPrice, price));
         }
+    }
+}
 
-        private static void Stock_PriceChanged(decimal oldPrice, decimal newPrice)
+class Test
+{
+    static void Main()
+    {
+        Stock stock = new Stock("THPW");
+        stock.Price = 27.10M;
+
+        // Register with the PriceChanged event
+        stock.PriceChanged += Stock_PriceChanged;
+
+        // Trigger the event by changing the price
+        stock.Price = 31.59M;
+    }
+
+    static void Stock_PriceChanged(object sender, PriceChangedEventArgs e)
+    {
+        if ((e.NewPrice - e.LastPrice) / e.LastPrice > 0.1M)
         {
-            Console.WriteLine($"Price changed from {oldPrice:C} to {newPrice:C}");
+            Console.WriteLine("Alert, 10% stock price increase!");
         }
     }
 }
