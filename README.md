@@ -84,3 +84,30 @@ Key Points:
 
 Events are objects that occur when the current state of an object changes.
 It is a way for a class (the broadcaster) to notify other classes or objects (the subscribers) when something interesting happens. It allows for communication between different parts of a program while maintaining loose coupling.
+
+# <ins> Lambda Expression </ins>
+ - It was introduce in c# veraion in c# 3.0
+
+- A lambda expression is an unnamed function written in a place of delegate instance.
+
+The compiler immmediatly converts to either:
+- A delegate instance 
+- An expression tree, or the type Expression<TDelegate>, represents code in a tree-like structure, where each node is an expression 
+(e.g., a method call, a binary operation, or a constant).
+
+Given the delegate type:-
+We could assign and the lambda expression x => x*x as follows:
+ Transformer 
+  sqr = x => x*x;
+  Console.WriteLine (sqr(3)); //9
+
+(parameter) => expression-0r-statement-block
+
+- Lambda Expression are used most commonly with the func and Action delegates.
+
+Types of Lambda Expression :-
+1. Expression Lambda- The result of the expression is automatically returned.
+2. Statement Lambda - Written within the curly bracket.
+
+
+

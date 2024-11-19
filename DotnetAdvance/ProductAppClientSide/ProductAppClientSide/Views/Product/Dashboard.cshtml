@@ -34,8 +34,9 @@
     <div class="container dashboard-container">
         <!-- Add Product Form -->
         <div class="form-section">
-            <h2>Add Product</h2>
-            <form method="post" action="/Products/AddProduct" enctype="multipart/form-data">
+            <h2>@(Model.Product != null ? "Edit Product" : "Add Product")</h2>
+            <form asp-controller="Products" asp-action="@Model.Product !=null? "UpdateProducts" : "AddProduct")"method="post" enctype="multipart-form-date" id=""productForm">
+
                 @Html.AntiForgeryToken()
                 <div class="mb-3">
                     <label for="name" class="form-label">Product Name</label>

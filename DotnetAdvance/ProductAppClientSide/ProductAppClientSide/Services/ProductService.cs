@@ -16,7 +16,7 @@ namespace ProductAppClientSide.Services
         public async Task<IEnumerable<Product>> GetProductsAsync(string token)
         {
             _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
-            var response = await _httpClient.GetAsync("https://externalapi.com/api/products");
+            var response = await _httpClient.GetAsync("");
 
             if (response.IsSuccessStatusCode)
             {
