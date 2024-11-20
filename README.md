@@ -89,6 +89,7 @@ It is a way for a class (the broadcaster) to notify other classes or objects (th
  - It was introduce in c# veraion in c# 3.0
 
 - A lambda expression is an unnamed function written in a place of delegate instance.
+- It is use to pass parameters to the method also it can be use in user define classes and method.
 
 The compiler immmediatly converts to either:
 - A delegate instance 
@@ -109,5 +110,9 @@ Types of Lambda Expression :-
 1. Expression Lambda- The result of the expression is automatically returned.
 2. Statement Lambda - Written within the curly bracket.
 
+# <ins> Generic Delegate </ins>
+- Func<T1, T2, ...Tn>: Takes arguments of types T1, T2, ...Tn-1 and returns a value of type Tn.
+- Action<T1, T2, ...>: Takes arguments of types T1, T2, ... and does not return a value.
+- Predicate<T1>: Takes one argument of type T1 and returns a boolean (true or false).
 
 
