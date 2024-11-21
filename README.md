@@ -115,4 +115,69 @@ Types of Lambda Expression :-
 - Action<T1, T2, ...>: Takes arguments of types T1, T2, ... and does not return a value.
 - Predicate<T1>: Takes one argument of type T1 and returns a boolean (true or false).
 
+ # <ins> Exception Handeling </ins>
+
+ Exception handling in C# is a mechanism to manage runtime errors in a program gracefully, ensuring that the application can recover or provide meaningful feedback instead of crashing.
+It uses a structured approach to detect, handle, and recover from errors using constructs like try, catch, and finally.
+
+# Exception Handeling mechanism
+- try :− A try block identifies a block of code for which particular exceptions is activated. It is followed by one or more catch blocks.
+
+- catch :− A program catches an exception with an exception handler at the place in a program where you want to handle the problem. The catch keyword indicates the catching of an exception.
+
+- finally :− The finally block is used to execute a given set of statements, whether an exception is thrown or not thrown. For example, if you open a file, it must be closed whether an exception is raised or not.
+
+- throw :− A program throws an exception when a problem shows up. This is done using a throw keyword.
+```
+try(){
+  r open;
+  .... exception occure
+  r close
+}
+catch(){
+  ....handle exception; // after the exception is handled the try block r block ia=s unable ti execute so 
+                          // applying in try block
+}
+finally(){ // you can also close that resource without using finally
+  r close 
+}
+``` 
+
+# Exception Filter
+ exception filters are a feature that allows you to specify a condition that determines whether a catch block should handle an exception. 
+ This is particularly useful for scenarios where you want to handle specific exceptions only when certain conditions are met, 
+ avoiding unnecessary re-throws or nested try-catch blocks
+
+- You use an exception filter by appending a when clause to a catch block
+```
+try
+{
+    // Code that might throw an exception
+    int[] numbers = { 1, 2, 3 };
+    Console.WriteLine(numbers[5]); // Index out of range
+}
+catch (IndexOutOfRangeException ex) when (ex.Message.Contains("index"))
+{
+    Console.WriteLine($"Caught exception with filter: {ex.Message}");
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"Caught generic exception: {ex.Message}");
+}
+
+```
+
+# Using 
+The using statement in C# provides a convenient and elegant way to manage unmanaged resources, such as files, database connections, or streams.
+It ensures that resources are properly disposed of when they are no longer needed, avoiding resource leaks.
+
+# Throw Expressions
+Throw was always a statement, but now it can also be used as an expression in C# 7.0 and later.
+This means that you can throw exceptions within an expression context, such as in the return statement or in lambda expressions,
+making your code more concise and expressive.
+
+# common Exception Type 
+
+
+
 
