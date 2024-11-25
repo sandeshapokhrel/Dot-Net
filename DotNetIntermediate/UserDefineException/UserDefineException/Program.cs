@@ -35,11 +35,7 @@ namespace UserDefineException
                 // Catch the custom exception
                 Console.WriteLine($"Error: {ex.Message}");
             }
-            catch (Exception ex)
-            {
-                // Catch any other exceptions
-                Console.WriteLine($"An unexpected error occurred: {ex.Message}");
-            }
         }
     }
 }
+

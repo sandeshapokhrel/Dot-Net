@@ -138,8 +138,7 @@
               "RelativeToolTip": "ProductAppApi\\Controllers\\AuthController.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T11:59:01.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T11:59:01.333Z"
             },
             {
               "$type": "Document",
@@ -209,7 +208,7 @@
               "RelativeDocumentMoniker": "ProductAppApi\\Models\\User.cs",
               "ToolTip": "E:\\Dot-Net\\DotnetAdvance\\ProductAppApi\\ProductAppApi\\Models\\User.cs",
               "RelativeToolTip": "ProductAppApi\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T11:20:13.852Z",
               "EditorCaption": ""
