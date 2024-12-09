@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot-Net\\LABs\\Lab4_Advance C# features\\EventEg4_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70206501-46C6-4329-AE72-6A4B9F94827A}|EventEg4_2\\EventEg4_2.csproj|e:\\dot-net\\labs\\lab4_advance c# features\\eventeg4_2\\eventeg4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70206501-46C6-4329-AE72-6A4B9F94827A}|EventEg4_2\\EventEg4_2.csproj|solutionrelative:eventeg4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dot-Net\\LABs\\Lab4_Advance C# features\\EventEg4_2\\EventEg4_2\\Program.cs",
+              "RelativeDocumentMoniker": "EventEg4_2\\Program.cs",
+              "ToolTip": "E:\\Dot-Net\\LABs\\Lab4_Advance C# features\\EventEg4_2\\EventEg4_2\\Program.cs",
+              "RelativeToolTip": "EventEg4_2\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:58:18.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

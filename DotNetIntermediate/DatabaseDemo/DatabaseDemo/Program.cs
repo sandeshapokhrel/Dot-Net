@@ -19,7 +19,7 @@ namespace DatabaseDemo
                     // CREATE
                     using (SqlCommand insertCmd = con.CreateCommand())
                     {
-                        insertCmd.CommandText = "INSERT INTO Student (Id, Name) VALUES (2, 'Hari')";
+                        insertCmd.CommandText = "INSERT INTO Student (Id, Name) VALUES (5, 'Hari')";
                         int insertResult = insertCmd.ExecuteNonQuery();
                         if (insertResult > 0)
                         {
